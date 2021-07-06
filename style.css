@@ -21,7 +21,7 @@ h2{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 140px;
 }
 .half-width{
     width: 50%;
@@ -30,4 +30,17 @@ h2{
 .center-banner{
     background-image: url(banner.jpg);
     margin-left: minis;
+}
+.text-center{
+    text-align: center;
+    margin-inline: 200px;
+}
+.recipe-item{
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    box-shadow: 10px 10px 20px;
+
 }
